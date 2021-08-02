@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como Fullstack
 - 🌱 Estudo React-Native
-- 😄 Pronouns: ele/dele
+
 
 <div>
   <a href="https://github.com/slashxu">
