@@ -1,6 +1,6 @@
 ### Olá! Me chamo Sérgio 👋
  
-- 🔭 Atualmente trabalho como Fullstack na Cocal Energia Responsavel. 
+- 🔭 Atualmente trabalho como Analista de Sistemas; 
 - 🌱 Foco em estudar React-Native;
 - 📫 Como entrar em contato comigo: sergiojsjr@yahoo.com.br;
 - 🎮 Curiosidade: Sou apreciador de games nas horas vagas.
