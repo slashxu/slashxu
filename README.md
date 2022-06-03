@@ -1,7 +1,7 @@
 ### Olá! Me chamo Sérgio 👋
  
-- 🔭 Atualmente trabalho como Analista de Sistemas; 
-- 🌱 Foco em estudar React-Native;
+- 🔭 Atualmente trabalho como Desenvolvedor Mobile Hibrido; 
+- 🌱 Foco em estudar a linguagem React-Native;
 - 📖 Portfolio: https://slashxu.github.io/portfolio
 - 📫 Como entrar em contato comigo: sergiojsjr@yahoo.com.br;
 - 🎮 Curiosidade: Sou apreciador de games nas horas vagas.
